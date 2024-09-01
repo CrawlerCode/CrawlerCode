@@ -8,9 +8,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-crawlercode.vercel.app/api?username=CrawlerCode&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=percentile)<br/>
+![](https://github-readme-stats-crawlercodes-projects.vercel.app/api?username=CrawlerCode&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=percentile)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CrawlerCode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-crawlercode.vercel.app/api/top-langs/?username=CrawlerCode&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-crawlercodes-projects.vercel.app/api/top-langs/?username=CrawlerCode&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CrawlerCode&icon=5&color=4)](https://visitcount.itsvg.in)
